@@ -1,4 +1,4 @@
-# sentimentAnalysisAmazonReviews
+# Sentiment Analysis on Amazon Product Reviews
 Sentiment Analysis on Amazon Product Reviews of Sensitive Toothpastes
 
 # Problem Statement:
@@ -6,3 +6,9 @@ Sentiment Analysis on Amazon Product Reviews of Sensitive Toothpastes
 - XGBoost with Word2Vec model reached 93% accuracy and 92% weighted F1 score.
 
 # About this Project:
+- In this project, I examined supervised methods of sentiment analysis, and used Word2Vec model to tranform texts to numercial formats.
+- As in real life, many reviews do not come with labels, unsupervised methods are also included
+Workflows of the project:
+Part 1. Data Exploration and Preparation
+Part 2. Unsupervised Sentiment Analysis: TextBlob, Vader
+Part 3. Supervised Sentiment Analysis: Word2Vec

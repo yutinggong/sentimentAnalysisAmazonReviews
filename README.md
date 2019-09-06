@@ -11,5 +11,7 @@ Please read [Sentiment Analysis on Amazon Reviews.ipynb](https://github.com/yuti
 
 Workflows of the project:
 Part 1. Data Exploration and Preparation
+
 Part 2. Unsupervised Sentiment Analysis: TextBlob, Vader
+
 Part 3. Supervised Sentiment Analysis: Word2Vec, SVM/Random Forest/XGBoost

@@ -9,7 +9,8 @@ Please read [Sentiment Analysis on Amazon Reviews.ipynb](https://github.com/yuti
 - In this project, I examined supervised methods of sentiment analysis, and used Word2Vec model to tranform texts to numercial formats.
 - As in real life, many reviews do not come with labels, unsupervised methods are therefore also included
 
-Workflows of the project:
+### Workflows of the project:
+
 Part 1. Data Exploration and Preparation
 
 Part 2. Unsupervised Sentiment Analysis: TextBlob, Vader
